@@ -1,5 +1,4 @@
-# internship  task-1
-You can use this GitHub README description:
+
 
 # Customer Behavior Analysis & Customer Segmentation
 
